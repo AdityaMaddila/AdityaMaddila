@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdityaMaddila
 - 👀 I’m interested in exploring stuff which i'd love to do by continuously trying out new stuff!!
-- 🌱 I’m currently learning - Web developement(cuttently frontend)
+- 🌱 I’m currently learning - Web developement(currently front-end)
 - 💞️ I’m looking to collaborate on - open source projects
 - 📫 How to reach me -
 - adityamvs202@gmail.com
